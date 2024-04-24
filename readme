@@ -13,5 +13,5 @@ feature 8
 lets see how this will work
 rebase commit1#new
 rebase commit2# new2
-rebase commit3
+rebase commit3 # new3
 lets see how this will work
